@@ -32,7 +32,7 @@ function Home() {
       </Typography>
       </Box>
       {/* <p className='type'>TYPE YOUR NAME</p> */}
-      <input className='input' type="text" />
+      <input className='input' type="text"  />
     </div>
   );
 }
