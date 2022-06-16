@@ -1,0 +1,28 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Source Sans Pro', sans-serif;
+  height: auto;
+}
+
+.row {
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+gap:50px
+}
+
+.tree {
+  height: 4in;
+  width: 3in;
+}
+
+.input {
+  width: 400px;
+  height: 90px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10%;
+}
