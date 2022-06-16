@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   font-family: 'Source Sans Pro', sans-serif;
+  height: auto;
 }
 
 .row {
@@ -13,17 +14,6 @@ flex-direction: column;
 gap:50px
 }
 
-/* .type {
-  font-size: 100px;
-  color: white;
-  font-family: 'Source Sans Pro', sans-serif;
-  letter-spacing: 30px;
-  font-weight: 1000;
-  align-content: center;
-  justify-content: center;
-  
-} */
-
 .tree {
   height: 4in;
   width: 3in;
@@ -32,4 +22,7 @@ gap:50px
 .input {
   width: 400px;
   height: 90px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10%;
 }
