@@ -28,4 +28,8 @@ gap:50px
   font-size: 50px;
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 900;
+  background: #ffffff ;
+  text-align: center;
+  outline: none; 
+  color: black
 }
